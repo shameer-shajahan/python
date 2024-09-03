@@ -1,0 +1,3 @@
+1/8 Food 150 other 34
+2/8 Food 110 petrol 234
+3/8 Food 215  recharge 233
